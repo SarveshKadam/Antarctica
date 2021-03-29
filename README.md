@@ -5,8 +5,9 @@ A RestfulAPI for Registration,Login & a getUserList.
 
 ⚡️ Includes proper authentication for accessing the end-points\
 ⚡️ Authentication which involves login and registration\
+⚡️ Search feature to filter the data by First Name, Last Name and employeeID\
 ⚡️ Sort feature to sort the data by First Name, Last Name, EmailID, employeeID and Organization Name\
-⚡️ Pagination to the data which incorporates limit and skip\
+⚡️ Pagination to the data which incorporates limit and skip
 
 
 ## Folder Structure :file_folder:

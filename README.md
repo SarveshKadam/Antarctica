@@ -9,7 +9,7 @@ A RestfulAPI for Registration,Login & a getUserList.
 ⚡️ Pagination to the data which incorporates limit and skip\
 
 
-## Folder Structure
+## Folder Structure :file_folder:
 
 ```
 App
